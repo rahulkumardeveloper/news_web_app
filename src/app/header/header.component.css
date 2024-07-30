@@ -1,0 +1,16 @@
+
+/* .fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+   
+} */
+a{
+    font-size: 23px;
+    font-weight: 700;
+    color: #fff;
+}
+a:hover{
+    text-decoration: underline;
+}
